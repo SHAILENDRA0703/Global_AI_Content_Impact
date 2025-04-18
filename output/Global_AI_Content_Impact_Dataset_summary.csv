@@ -1,0 +1,11 @@
+avg_impact_per_country,industry_counts,max_impact_by_industry
+"{'Country': 'Australia', 'ImpactScore': 74.66666666666667}","{'ConsumerIndustry': 'Gaming', 'count': 18}","{'ConsumerIndustry': 'Automotive', 'ImpactScore': 93}"
+"{'Country': 'Canada', 'ImpactScore': 66.5}","{'ConsumerIndustry': 'Media', 'count': 13}","{'ConsumerIndustry': 'Education', 'ImpactScore': 88}"
+"{'Country': 'China', 'ImpactScore': 78.88888888888889}","{'ConsumerIndustry': 'Marketing', 'count': 11}","{'ConsumerIndustry': 'Finance', 'ImpactScore': 88}"
+"{'Country': 'France', 'ImpactScore': 71.93333333333334}","{'ConsumerIndustry': 'Legal', 'count': 11}","{'ConsumerIndustry': 'Gaming', 'ImpactScore': 95}"
+"{'Country': 'Germany', 'ImpactScore': 81.0}","{'ConsumerIndustry': 'Healthcare', 'count': 11}","{'ConsumerIndustry': 'Healthcare', 'ImpactScore': 89}"
+"{'Country': 'India', 'ImpactScore': 66.6923076923077}","{'ConsumerIndustry': 'Automotive', 'count': 10}","{'ConsumerIndustry': 'Legal', 'ImpactScore': 88}"
+"{'Country': 'Japan', 'ImpactScore': 76.72727272727273}","{'ConsumerIndustry': 'Education', 'count': 10}","{'ConsumerIndustry': 'Manufacturing', 'ImpactScore': 93}"
+"{'Country': 'South Korea', 'ImpactScore': 71.0}","{'ConsumerIndustry': 'Manufacturing', 'count': 9}","{'ConsumerIndustry': 'Marketing', 'ImpactScore': 88}"
+"{'Country': 'UK', 'ImpactScore': 77.06666666666666}","{'ConsumerIndustry': 'Retail', 'count': 8}","{'ConsumerIndustry': 'Media', 'ImpactScore': 88}"
+"{'Country': 'USA', 'ImpactScore': 74.2}","{'ConsumerIndustry': 'Finance', 'count': 8}","{'ConsumerIndustry': 'Retail', 'ImpactScore': 94}"
